@@ -1,0 +1,4 @@
+Config,ChunkSize,TopK,Threshold,AnswersFound,RefusalsKept
+Baseline,500,3,1.2,5,2
+Config_A,300,3,1.2,6,1
+Config_B,500,5,1.0,4,2
